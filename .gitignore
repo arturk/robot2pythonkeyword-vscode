@@ -1,0 +1,10 @@
+out
+node_modules
+.vscode-test/
+*.vsix
+.vscode/**
+typings/**
+test/**
+.editorconfig
+.travis.yml
+jsconfig.json
