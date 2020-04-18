@@ -1,0 +1,26 @@
+{
+    "name": "robot2pythonkeyword",
+    "displayName": "robot2pythonkeyword",
+    "description": "Converts highlighted Robot Framework keyword to python method definition and triggers project find all with this string.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "christian-kohler.npm-intellisense", 
+        "DavidAnson.vscode-markdownlint", 
+        "dbaeumer.vscode-eslint", 
+        "donjayamanne.githistory", 
+        "eamodio.gitlens", 
+        "eg2.vscode-npm-script", 
+        "eventyret.bootstrap-4-cdn-snippet", 
+        "felipecaputo.git-project-manager", 
+        "ms-azuretools.vscode-docker", 
+        "ms-python.python", 
+        "ms-vscode-remote.remote-wsl", 
+        "msjsdiag.debugger-for-chrome"
+    ]
+}

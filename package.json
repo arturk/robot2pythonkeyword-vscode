@@ -2,7 +2,7 @@
 	"name": "robot2pythonkeyword",
 	"displayName": "robot2pythonkeyword",
 	"description": "Convert robot keywords to python definitions for faster search across all project",
-	"publisher": "arturk",
+	"publisher": "arturko",
 	"repository": "https://github.com/arturk/robot2pythonkeyword-vscode",
 	"version": "0.0.1",
 	"engines": {
